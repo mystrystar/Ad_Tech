@@ -1,0 +1,22 @@
+[
+ {
+  "scope": "genre",
+  "key": "GEC",
+  "maxDiscountPct": 15
+ },
+ {
+  "scope": "genre",
+  "key": "Sports",
+  "maxDiscountPct": 10
+ },
+ {
+  "scope": "genre",
+  "key": "OTT",
+  "maxDiscountPct": 20
+ },
+ {
+  "scope": "channel",
+  "key": "mogra-marathi",
+  "maxDiscountPct": 20
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "channelId": "aangan-tv",
+  "timeBand": "peak",
+  "adLength": 10,
+  "ratePer10Sec": 42000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "aangan-tv",
+  "timeBand": "peak",
+  "adLength": 20,
+  "ratePer10Sec": 42000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "aangan-tv",
+  "timeBand": "peak",
+  "adLength": 30,
+  "ratePer10Sec": 42000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "aangan-tv",
+  "timeBand": "peak",
+  "adLength": 60,
+  "ratePer10Sec": 42000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "aangan-tv",
+  "timeBand": "slow",
+  "adLength": 10,
+  "ratePer10Sec": 12000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "aangan-tv",
+  "timeBand": "slow",
+  "adLength": 20,
+  "ratePer10Sec": 12000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "aangan-tv",
+  "timeBand": "slow",
+  "adLength": 30,
+  "ratePer10Sec": 12000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "aangan-tv",
+  "timeBand": "slow",
+  "adLength": 60,
+  "ratePer10Sec": 12000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kahani-plus",
+  "timeBand": "peak",
+  "adLength": 10,
+  "ratePer10Sec": 36000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kahani-plus",
+  "timeBand": "peak",
+  "adLength": 20,
+  "ratePer10Sec": 36000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kahani-plus",
+  "timeBand": "peak",
+  "adLength": 30,
+  "ratePer10Sec": 36000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kahani-plus",
+  "timeBand": "peak",
+  "adLength": 60,
+  "ratePer10Sec": 36000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kahani-plus",
+  "timeBand": "slow",
+  "adLength": 10,
+  "ratePer10Sec": 10000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kahani-plus",
+  "timeBand": "slow",
+  "adLength": 20,
+  "ratePer10Sec": 10000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kahani-plus",
+  "timeBand": "slow",
+  "adLength": 30,
+  "ratePer10Sec": 10000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kahani-plus",
+  "timeBand": "slow",
+  "adLength": 60,
+  "ratePer10Sec": 10000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "mogra-marathi",
+  "timeBand": "peak",
+  "adLength": 10,
+  "ratePer10Sec": 18000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "mogra-marathi",
+  "timeBand": "peak",
+  "adLength": 20,
+  "ratePer10Sec": 18000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "mogra-marathi",
+  "timeBand": "peak",
+  "adLength": 30,
+  "ratePer10Sec": 18000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "mogra-marathi",
+  "timeBand": "peak",
+  "adLength": 60,
+  "ratePer10Sec": 18000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "mogra-marathi",
+  "timeBand": "slow",
+  "adLength": 10,
+  "ratePer10Sec": 6000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "mogra-marathi",
+  "timeBand": "slow",
+  "adLength": 20,
+  "ratePer10Sec": 6000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "mogra-marathi",
+  "timeBand": "slow",
+  "adLength": 30,
+  "ratePer10Sec": 6000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "mogra-marathi",
+  "timeBand": "slow",
+  "adLength": 60,
+  "ratePer10Sec": 6000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kaveri-tamil",
+  "timeBand": "peak",
+  "adLength": 10,
+  "ratePer10Sec": 20000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kaveri-tamil",
+  "timeBand": "peak",
+  "adLength": 20,
+  "ratePer10Sec": 20000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kaveri-tamil",
+  "timeBand": "peak",
+  "adLength": 30,
+  "ratePer10Sec": 20000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kaveri-tamil",
+  "timeBand": "peak",
+  "adLength": 60,
+  "ratePer10Sec": 20000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kaveri-tamil",
+  "timeBand": "slow",
+  "adLength": 10,
+  "ratePer10Sec": 6500,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kaveri-tamil",
+  "timeBand": "slow",
+  "adLength": 20,
+  "ratePer10Sec": 6500,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kaveri-tamil",
+  "timeBand": "slow",
+  "adLength": 30,
+  "ratePer10Sec": 6500,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "kaveri-tamil",
+  "timeBand": "slow",
+  "adLength": 60,
+  "ratePer10Sec": 6500,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "khel-arena",
+  "timeBand": "peak",
+  "adLength": 10,
+  "ratePer10Sec": 30000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "khel-arena",
+  "timeBand": "peak",
+  "adLength": 20,
+  "ratePer10Sec": 30000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "khel-arena",
+  "timeBand": "peak",
+  "adLength": 30,
+  "ratePer10Sec": 30000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "khel-arena",
+  "timeBand": "peak",
+  "adLength": 60,
+  "ratePer10Sec": 30000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "khel-arena",
+  "timeBand": "slow",
+  "adLength": 10,
+  "ratePer10Sec": 9000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "khel-arena",
+  "timeBand": "slow",
+  "adLength": 20,
+  "ratePer10Sec": 9000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "khel-arena",
+  "timeBand": "slow",
+  "adLength": 30,
+  "ratePer10Sec": 9000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "khel-arena",
+  "timeBand": "slow",
+  "adLength": 60,
+  "ratePer10Sec": 9000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "stadium-9",
+  "timeBand": "peak",
+  "adLength": 10,
+  "ratePer10Sec": 22000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "stadium-9",
+  "timeBand": "peak",
+  "adLength": 20,
+  "ratePer10Sec": 22000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "stadium-9",
+  "timeBand": "peak",
+  "adLength": 30,
+  "ratePer10Sec": 22000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "stadium-9",
+  "timeBand": "peak",
+  "adLength": 60,
+  "ratePer10Sec": 22000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "stadium-9",
+  "timeBand": "slow",
+  "adLength": 10,
+  "ratePer10Sec": 7000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "stadium-9",
+  "timeBand": "slow",
+  "adLength": 20,
+  "ratePer10Sec": 7000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "stadium-9",
+  "timeBand": "slow",
+  "adLength": 30,
+  "ratePer10Sec": 7000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "stadium-9",
+  "timeBand": "slow",
+  "adLength": 60,
+  "ratePer10Sec": 7000,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "streamnest",
+  "timeBand": "peak",
+  "adLength": null,
+  "ratePerImpression": 0.6,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ },
+ {
+  "channelId": "streamnest",
+  "timeBand": "slow",
+  "adLength": null,
+  "ratePerImpression": 0.4,
+  "validFrom": "2026-04-01",
+  "validTo": "2027-03-31"
+ }
+]

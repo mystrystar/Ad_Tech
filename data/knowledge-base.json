@@ -1,0 +1,92 @@
+{
+ "timeBands": {
+  "peak": {
+   "hours": "19:00-23:00",
+   "reachFactor": 1
+  },
+  "slow": {
+   "hours": "06:00-19:00 and 23:00-01:00",
+   "reachFactor": 0.35
+  }
+ },
+ "terms": {
+  "around": {
+   "meaning": "Plan may land within 5% either side of the stated budget",
+   "tolerancePct": 5
+  },
+  "all in": {
+   "meaning": "Stated budget includes 18% GST, so media spend is the budget divided by 1.18",
+   "taxPct": 18
+  },
+  "gec": {
+   "meaning": "General Entertainment Channel: serials, reality and family programming"
+  },
+  "nccs": {
+   "meaning": "New Consumer Classification System. A and B are the higher-affluence households"
+  },
+  "digital": {
+   "meaning": "Our OTT app"
+  },
+  "hindi belt": {
+   "meaning": "The Hindi-speaking states listed in regionGroups"
+  },
+  "peak": {
+   "meaning": "Prime time, 19:00-23:00"
+  },
+  "slow": {
+   "meaning": "Non-prime time, 06:00-19:00 and 23:00-01:00"
+  }
+ },
+ "genreAliases": {
+  "gec": "GEC",
+  "general entertainment": "GEC",
+  "sports": "Sports",
+  "sport": "Sports",
+  "digital": "OTT",
+  "ott": "OTT",
+  "streaming": "OTT"
+ },
+ "genreIntensity": {
+  "strong": 60,
+  "some": 15,
+  "default": 25
+ },
+ "lengthIntensity": {
+  "mostly": 80,
+  "few": 20,
+  "default": 50
+ },
+ "regionGroups": {
+  "hindi belt": [
+   "Uttar Pradesh",
+   "Bihar",
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Delhi",
+   "Haryana",
+   "Jharkhand",
+   "Chhattisgarh",
+   "Uttarakhand",
+   "Himachal Pradesh"
+  ]
+ },
+ "states": [
+  "Uttar Pradesh",
+  "Bihar",
+  "Madhya Pradesh",
+  "Rajasthan",
+  "Delhi",
+  "Haryana",
+  "Jharkhand",
+  "Chhattisgarh",
+  "Uttarakhand",
+  "Himachal Pradesh",
+  "Maharashtra",
+  "Tamil Nadu",
+  "Kerala",
+  "Karnataka",
+  "Andhra Pradesh",
+  "Telangana"
+ ],
+ "defaultYearRule": "A date with no year uses the current year"
+}

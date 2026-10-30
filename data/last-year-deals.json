@@ -1,0 +1,92 @@
+[
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "aangan-tv",
+  "timeBand": "peak",
+  "ratePaid": 36000,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "aangan-tv",
+  "timeBand": "slow",
+  "ratePaid": 12000,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "kahani-plus",
+  "timeBand": "peak",
+  "ratePaid": 29000,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "kahani-plus",
+  "timeBand": "slow",
+  "ratePaid": 9000,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "mogra-marathi",
+  "timeBand": "peak",
+  "ratePaid": 15000,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "mogra-marathi",
+  "timeBand": "slow",
+  "ratePaid": 6000,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "khel-arena",
+  "timeBand": "peak",
+  "ratePaid": 25000,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "khel-arena",
+  "timeBand": "slow",
+  "ratePaid": 8500,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "streamnest",
+  "timeBand": "peak",
+  "ratePaid": 0.45,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ },
+ {
+  "agency": "Bluekite Media",
+  "client": "Fizzwell Beverages",
+  "channelId": "streamnest",
+  "timeBand": "slow",
+  "ratePaid": 0.36,
+  "startDate": "2025-10-18",
+  "endDate": "2025-11-10"
+ }
+]

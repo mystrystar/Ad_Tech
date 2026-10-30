@@ -1,0 +1,12 @@
+[
+ {
+  "medium": "linear",
+  "minSeconds": 10,
+  "maxSeconds": 60
+ },
+ {
+  "medium": "ott",
+  "minSeconds": 40,
+  "maxSeconds": 90
+ }
+]

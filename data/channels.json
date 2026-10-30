@@ -1,0 +1,127 @@
+[
+ {
+  "id": "aangan-tv",
+  "name": "Aangan TV",
+  "genre": "GEC",
+  "medium": "linear",
+  "regions": [
+   "Uttar Pradesh",
+   "Bihar",
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Delhi",
+   "Haryana",
+   "Jharkhand",
+   "Chhattisgarh",
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Maharashtra"
+  ]
+ },
+ {
+  "id": "kahani-plus",
+  "name": "Kahani Plus",
+  "genre": "GEC",
+  "medium": "linear",
+  "regions": [
+   "Uttar Pradesh",
+   "Bihar",
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Delhi",
+   "Haryana",
+   "Jharkhand",
+   "Chhattisgarh",
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Maharashtra"
+  ]
+ },
+ {
+  "id": "mogra-marathi",
+  "name": "Mogra Marathi",
+  "genre": "GEC",
+  "medium": "linear",
+  "regions": [
+   "Maharashtra"
+  ]
+ },
+ {
+  "id": "kaveri-tamil",
+  "name": "Kaveri Tamil",
+  "genre": "GEC",
+  "medium": "linear",
+  "regions": [
+   "Tamil Nadu",
+   "Kerala",
+   "Karnataka"
+  ]
+ },
+ {
+  "id": "khel-arena",
+  "name": "Khel Arena",
+  "genre": "Sports",
+  "medium": "linear",
+  "regions": [
+   "Uttar Pradesh",
+   "Bihar",
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Delhi",
+   "Haryana",
+   "Jharkhand",
+   "Chhattisgarh",
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Maharashtra",
+   "Tamil Nadu",
+   "Kerala",
+   "Karnataka",
+   "Andhra Pradesh",
+   "Telangana"
+  ]
+ },
+ {
+  "id": "stadium-9",
+  "name": "Stadium 9",
+  "genre": "Sports",
+  "medium": "linear",
+  "regions": [
+   "Uttar Pradesh",
+   "Bihar",
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Delhi",
+   "Haryana",
+   "Jharkhand",
+   "Chhattisgarh",
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Maharashtra"
+  ]
+ },
+ {
+  "id": "streamnest",
+  "name": "StreamNest",
+  "genre": "OTT",
+  "medium": "ott",
+  "regions": [
+   "Uttar Pradesh",
+   "Bihar",
+   "Madhya Pradesh",
+   "Rajasthan",
+   "Delhi",
+   "Haryana",
+   "Jharkhand",
+   "Chhattisgarh",
+   "Uttarakhand",
+   "Himachal Pradesh",
+   "Maharashtra",
+   "Tamil Nadu",
+   "Kerala",
+   "Karnataka",
+   "Andhra Pradesh",
+   "Telangana"
+  ]
+ }
+]
